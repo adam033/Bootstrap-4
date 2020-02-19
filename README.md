@@ -21,8 +21,25 @@ Sama sama berfungsi untuk membuat tampilan web menjadi lebih menarik dan rapi sa
 _________________________________________________________________________
 
 ## **Latihan BOOTSTRAP 4 Modul**
-#### latihan 1
-![ALt Text]()
+#### Latihan 1
+![ALt Text](https://github.com/adam033/Bootstrap-4/blob/master/satu.png)
+Pada Latihan satu mempelajari tentang bagaimana membuat text dengan berbagai jenis warna pada bootstrap dan berbagai text dengan backround warna yang bervariasi.
+
+### Latihan 2
+![ALt Text](https://github.com/adam033/Bootstrap-4/blob/master/dua.png)
+Pada Latihan 2 mempelajari tentang cara membuat grid dengan berbagai warna serta berbagai ukuran yang berbeda pada bootstrap 4.
+
+### Latihan 3
+![ALt Text](https://github.com/adam033/Bootstrap-4/blob/master/tiga.png)
+Pada Latihan tiga mempelajari cara membuat berbagai varaiasi atau model button yang menarik dan mempelajari cara penataanya supaya terlihat rapi pada bootstrap4.
+
+### Latihan 4
+![ALt Text](https://github.com/adam033/Bootstrap-4/blob/master/empat.png)
+
+
+
+
+
 
 
 
