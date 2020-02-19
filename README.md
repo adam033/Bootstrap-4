@@ -23,20 +23,49 @@ _________________________________________________________________________
 ## **Latihan BOOTSTRAP 4 Modul**
 #### Latihan 1
 ![ALt Text](https://github.com/adam033/Bootstrap-4/blob/master/satu.png)
-Pada Latihan satu mempelajari tentang bagaimana membuat text dengan berbagai jenis warna pada bootstrap dan berbagai text dengan backround warna yang bervariasi.
+Pada Latihan satu mempelajari tentang bagaimana membuat text dengan berbagai jenis warna pada bootstrap dan berbagai text dengan backround warna yang bervariasi dengan bootstrap 4.
 
 ### Latihan 2
 ![ALt Text](https://github.com/adam033/Bootstrap-4/blob/master/dua.png)
-Pada Latihan 2 mempelajari tentang cara membuat grid dengan berbagai warna serta berbagai ukuran yang berbeda pada bootstrap 4.
+Pada Latihan 2 mempelajari tentang cara membuat grid dengan berbagai warna serta berbagai ukuran yang berbeda dengan bootstrap 4.
 
 ### Latihan 3
 ![ALt Text](https://github.com/adam033/Bootstrap-4/blob/master/tiga.png)
-Pada Latihan tiga mempelajari cara membuat berbagai varaiasi atau model button yang menarik dan mempelajari cara penataanya supaya terlihat rapi pada bootstrap4.
+Pada Latihan tiga mempelajari cara membuat berbagai varaiasi atau model button yang menarik dan mempelajari cara penataanya supaya terlihat rapi dengan bootstrap4.
 
 ### Latihan 4
 ![ALt Text](https://github.com/adam033/Bootstrap-4/blob/master/empat.png)
+Pada Latihan empat mempelajari tentang cara membuat peringatan / alert pada bootstrap 4, dengan berbagai variasi warna dan jenis serta berbeda tipe yaitu alert normal dan dissmissable (bisa diclose saat selesai dengan mengklik tanda silang di pojok kanan atas) dengan bootstrap 4.
+
+### Latihan 5
+![ALt Text](https://github.com/adam033/Bootstrap-4/blob/master/lima.png)
+Pada Latihan lima mempelajari tentang cara membuat card image dan card text dengan kategori card-info dan card-success dengan bootstrap4.
+
+### Latihan 6
+![ALt Text](https://github.com/adam033/Bootstrap-4/blob/master/enam.png)
+Pada Latihan enam mempelajari tentang cara membuat navigasi bar dengan posisi on top dan ber kategori danger serta menambahkan logo pada posisi kiri atasnya, selain itu membuatnya responsive dengan resolusi tab pada web dan fungsi linknya dengan bootstrap 4.
+
+### Latihan 7
+![ALt Text](https://github.com/adam033/Bootstrap-4/blob/master/tujuh.png)
+Pada Latihan tujuh mempelajari tentang cara membuat slideshow dari beberapa gambar yang telah kita tambahkan pada file HTML kita dan responsive apabila diabaikan maka slide show akan berpindah sendiri dari side satu ke slide lainya, selain itu juga bisa di slide dengan manual pada ikon next dan prev yang telah kita sediakan pada file HTML kita dengan bootstrap 4.
+
+### Latihan 8
+![ALt Text](https://github.com/adam033/Bootstrap-4/blob/master/delapan.png)
+Pada Latihan delapan mempelajari tentang cara membuat tombol responsive dengan nama modal , tombol tersebut terdiri dari tombol danger , info , dan successful sehingga apabila di click maka akan memunculkan informasi sesuai dengan halaman atau content yang kalian hubungkan dengan tombol kalian tadi dengan berbagai ukuran serta warna , serta responsive terhadap resolusi tab pada halaman browser anda pada bootstrap 4.
+
+### Latihan 9
+![ALt Text](https://github.com/adam033/Bootstrap-4/blob/master/sembilan.png)
+Pada latihan sembilan mempelajari tentang cara membuat berbagai jenis tabel dengan berbagai variasi warna , ukuran , dan style pada file HTML serta responsive terhadap resolusi tab pada browser anda sehingga terkesan lebih rapi dengan bootstrap 4.
+
+____________________________________________________________________________________________
 
 
+### Kesimpulan
+Pada dasarnya bootstrap dan css sama yaitu berfungsi untuk membuat tampilan web menjadi menarik dan lebih responsive , dan juga membuat web terlihat lebih rapi saat ditampilkan pada media manapun baaik tablet , smartphone maupun desktop namun pada bootstrap terkesan lebih praktis karena kita tidak perlun mendesign ber syntak secara manual cukup dengan memanggil masing masing class yang sudah di sediakan oleh folder bootstrap 4.
+
+
+___________________________________________________________
+## Semoga Bermanfaat
 
 
 
